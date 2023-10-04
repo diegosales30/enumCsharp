@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\bin\Debug\net7.0\EnunCsharp.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\bin\Debug\net7.0\EnunCsharp.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\bin\Debug\net7.0\EnunCsharp.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\bin\Debug\net7.0\EnunCsharp.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\bin\Debug\net7.0\EnunCsharp.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\refint\EnunCsharp.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\EnunCsharp.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\EnunCsharp\obj\Debug\net7.0\ref\EnunCsharp.dll
